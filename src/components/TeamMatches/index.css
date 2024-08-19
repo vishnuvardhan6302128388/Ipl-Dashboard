@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.team-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  background-image: linear-gradient(to bottom, #d91c1f, #d91c1f, #5755a7);
+}

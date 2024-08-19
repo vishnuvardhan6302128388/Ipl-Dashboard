@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list-item {
+  background-color: #475569;
+  background-size: cover;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+  display: flex;
+
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.img {
+  width: 110px;
+}
+.name {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 37px;
+  text-align: center;
+  padding-left: 30px;
+}
+.nav-link {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
